@@ -1,9 +1,9 @@
 ﻿using coba_coba;
+using tpmodul7_Al_JABBAR_03;
 
-DataMahasiswa1302213089 mhs = new DataMahasiswa1302213089();
+DataMahasiswa1302210009 mhsheru = new DataMahasiswa1302210009();
 
-mhs.ReadJSON();
+mhsheru.ReadJSON();
 
-KuliahMahasiswa1302213089 kul = new KuliahMahasiswa1302213089();
 
-kul.ReadJSON();
+
