@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using tpmodul7_Al_JABBAR_03;
+
+DataMahasiswa_1302213012 mhs = new DataMahasiswa_1302213012();
+
+mhs.ReadJSON();
