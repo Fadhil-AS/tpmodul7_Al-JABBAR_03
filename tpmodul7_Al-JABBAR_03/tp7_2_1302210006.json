@@ -1,0 +1,24 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CRI2E4",
+			"name": "BASIS DATA"
+		},
+		{
+			"code": "CRJ2G3",
+			"name": "DASAR JARINGAN KOMPUTER"
+		},
+		{
+			"code": "CII3B4",
+			"name": "PEMROGRAMAN BERORIENTASI OBJEK"
+		},
+		{
+			"code": "CRJ2A3",
+			"name": "PENJAMINAN MUTU PERANGKAT LUNAK"
+		}
+	]
+}
