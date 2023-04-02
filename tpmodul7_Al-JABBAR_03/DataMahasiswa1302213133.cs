@@ -27,7 +27,7 @@ namespace tpmodul7_Al_JABBAR_03
         {
             String Des = File.ReadAllText("C:\\Users\\Zeraume\\OneDrive\\Documents\\GitHub\\tpmodul7_Al-JABBAR_03\\tpmodul7_Al-JABBAR_03\\tp7_1_1302213133.json");
             DataMahasiswa1302213133 obj = JsonSerializer.Deserialize<DataMahasiswa1302213133>(Des);
-            Console.WriteLine("Nama: " + obj.nama.depan + " " + obj.nama.belakang + " dengan nim " + obj.nim + " dari fakultas " + obj.fakultas);
+            Console.WriteLine("Nama: " + obj.nama.depan + " " + obj.nama.belakang + " dengan NIM " + obj.nim + " dari fakultas " + obj.fakultas);
         }
     }
 
