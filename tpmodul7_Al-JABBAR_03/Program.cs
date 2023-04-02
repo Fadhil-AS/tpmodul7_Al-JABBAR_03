@@ -1,4 +1,7 @@
 
+
+using tpmodul7_Al_JABBAR_03;
+
 DataMahasiswa_1302213012 mhs2 = new DataMahasiswa_1302213012();
 
 mhs2.ReadJSON();
@@ -17,11 +20,12 @@ mk.readJSON();
 
 Console.WriteLine("---------------------------------------------------------------------------------");
 
-DataMahasiswa1302213089 mhs = new DataMahasiswa1302213089();
+DataMahasiswa1302210009 mhsheru = new DataMahasiswa1302210009();
 
-mhs.ReadJSON();
+mhsheru.ReadJSON();
 
-KuliahMahasiswa1302213089 kul = new KuliahMahasiswa1302213089();
+KuliahMahasiswa1302210009 kulheru = new KuliahMahasiswa1302210009();
 
-kul.ReadJSON();
+kulheru.ReadJSON();
+
 
